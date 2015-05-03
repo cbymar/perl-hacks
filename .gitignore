@@ -1,0 +1,7 @@
+# Everything but Perl code for now #
+#################################
+*
+!*/
+!.gitignore
+!*.pl
+!*.md
